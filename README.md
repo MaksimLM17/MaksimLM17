@@ -71,9 +71,8 @@
 
 ### 📫 Как со мной связаться
 
-- **Telegram:** [@ваш_телеграм](https://t.me/your_telegram)
-- **Почта:** your.email@example.com
-- **LinkedIn:** [Ваш LinkedIn](https://www.linkedin.com/in/your-profile/)
+- **Telegram:** [@LMaksim17A](https://t.me/your_telegram)
+- **Почта:** max-282@yandex.ru
 
 <p align="center">
    <img src="https://komarev.com/ghpvc/?username=MaksimLM17&color=blueviolet" alt="Profile views" />
