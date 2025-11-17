@@ -2,33 +2,24 @@
 <h3 align="center">Backend-разработчик на Java</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=800&color=22C55E&center=true&vCenter=true&width=500&lines=%F0%9F%91%8B+Hello%2C+I'm+Maksim;%F0%9F%92%BB+Java+Backend+Developer;%F0%9F%9B%A0+Spring+Boot+%7C+Microservices;%F0%9F%90%B3+PostgreSQL+%7C+Docker;%E2%9C%A8+Clean+Code+%7C+SOLID" alt="Typing SVG" /></a>
 </p>
 
 ---
 
-### 🛠️ Мой Технологический Стек
+### 🛠️ Технологический стек
 
-**Языки и Фреймворки:**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![Mockito](https://img.shields.io/badge/Mockito-25A162?style=for-the-badge)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,postgresql,docker,maven,git,postman,idea&theme=dark&perline=9" />
+</p>
 
-**Базы данных:**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![H2](https://img.shields.io/badge/H2-1.4.200-1E90FF?style=for-the-badge)
+<div align="center">
 
-**Инструменты:**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=ApacheMaven&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+**Backend** • **Базы данных** • **Инструменты**
+  
+Java | Spring Boot | Hibernate | PostgreSQL | Docker | Maven | Git | Postman
+
+</div>
 
 ---
 
